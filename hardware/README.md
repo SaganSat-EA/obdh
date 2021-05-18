@@ -1,4 +1,4 @@
-# FloripaSat - On Board Data Handling - Hardware
+# SaganSat-EA - On Board Data Handling - Hardware
 <hr>
 ## Topology
 

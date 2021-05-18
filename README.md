@@ -1,6 +1,5 @@
-
 # OBDH
-On-Board Data Handling module of the FloripaSat Cubesat Project
+On-Board Data Handling module of the SaganSat-EA Cubesat Project
 
 The main goal of On Board Data Handling, a.k.a. OBDH, is manage all the cubesat information aimming to reach the mission goal.
 
